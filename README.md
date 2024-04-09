@@ -1,5 +1,4 @@
-https://hpstream.github.io/ts-axios/chapter1/
-
+# Axios-ts
 
 ## Features
 
