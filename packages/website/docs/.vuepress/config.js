@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/axios-ts/',
+  base: '/axios-ts/docs/',
   dest: '../../docs',
   title: 'TypeScript 从零实现 axios',
   description: '学习使用 TypeScript 从零实现 axios 库',
